@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ID Information</string>
+    <string name="hint_id">please enter your ID # </string> //a way of reusing code
+    <string name="submit_button">Submit</string>
+    <string name="textView">"Your ID info will be displayed here...</string>
+</resources>
